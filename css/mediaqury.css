@@ -1557,7 +1557,10 @@ display: block;
     font-weight: 700;
     color: #003c5f;
   }
-
+.contact .contact-content .gender {
+display:flex;
+flex-wrap:nowrap;
+}
   /* end part contact  */
 
   /* start part  the end  */
