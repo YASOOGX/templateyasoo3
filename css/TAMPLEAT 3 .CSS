@@ -1876,7 +1876,7 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-    flex-wrap: no-wrap;
+    flex-wrap: nowrap;
   margin-left: 50px;
 }
 
